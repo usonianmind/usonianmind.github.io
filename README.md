@@ -1,5 +1,3 @@
-# usonianmind.github.io
-
 # college-backup
 
 Personal backup tool used by its owner only.
